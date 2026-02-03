@@ -43,3 +43,17 @@ ProjectPilot acts like a virtual project supervisor by providing:
 🚧 Phase 1 – Planning & Setup  
 This project is under active development.  
 Contributions, feedback, and reviews are welcome.
+
+
+## Contributing
+
+ProjectPilot is open to contributions from students and developers.
+
+You can contribute by:
+- Adding new project guides
+- Improving existing guides
+- Reporting bugs
+- Suggesting new features
+
+Detailed contribution guidelines will be added in later phases.
+
