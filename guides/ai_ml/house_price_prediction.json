@@ -1,0 +1,84 @@
+{
+  "project_title": "House Price Prediction Using Machine Learning",
+  "category": "AI / ML",
+  "difficulty": "Beginner",
+  "overview": "This project builds a machine learning regression model to predict house prices based on features such as area, number of bedrooms, and location. It introduces the complete machine learning workflow including data loading, preprocessing, training, and evaluation.",
+  "prerequisites": [
+    "Basic Python syntax",
+    "Very basic mathematics",
+    "No prior machine learning knowledge required"
+  ],
+  "tools_platforms": [
+    "Python 3.8 or higher",
+    "VS Code or Jupyter Notebook"
+  ],
+  "ide_setup": [
+    "Install Python from python.org and add it to PATH",
+    "Install VS Code or Jupyter Notebook",
+    "Create a virtual environment",
+    "Install required libraries using pip"
+  ],
+  "libraries_frameworks": [
+    {
+      "name": "NumPy",
+      "purpose": "Numerical operations"
+    },
+    {
+      "name": "Pandas",
+      "purpose": "Loading and handling datasets"
+    },
+    {
+      "name": "scikit-learn",
+      "purpose": "Machine learning algorithms"
+    },
+    {
+      "name": "Matplotlib",
+      "purpose": "Data visualization"
+    }
+  ],
+  "roadmap": [
+    {
+      "step": 1,
+      "title": "Load the Dataset",
+      "description": "Load the house price dataset using Pandas from a CSV file."
+    },
+    {
+      "step": 2,
+      "title": "Explore and Clean the Data",
+      "description": "Check for missing values, clean the data, and select relevant features."
+    },
+    {
+      "step": 3,
+      "title": "Split Data into Training and Testing Sets",
+      "description": "Separate features and target values, then split data into training and testing sets."
+    },
+    {
+      "step": 4,
+      "title": "Train the Machine Learning Model",
+      "description": "Train a regression model using the training dataset."
+    },
+    {
+      "step": 5,
+      "title": "Evaluate the Model",
+      "description": "Evaluate the model using test data and calculate error metrics."
+    }
+  ],
+  "troubleshooting": [
+    {
+      "error": "ModuleNotFoundError: No module named 'sklearn'",
+      "cause": "scikit-learn is not installed",
+      "fix": "Run pip install scikit-learn"
+    }
+  ],
+  "deployment": [
+    "Push the project code to a GitHub repository",
+    "Add a README explaining the project",
+    "Include screenshots or results",
+    "Share the repository link on LinkedIn"
+  ],
+  "extensions": [
+    "Use advanced regression models",
+    "Add interactive data visualizations",
+    "Deploy the model as a web application"
+  ]
+}
